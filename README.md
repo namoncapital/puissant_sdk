@@ -41,7 +41,7 @@ func main() {
 ```
 ## demo require
 
-- bsc testnet account balance is greater than 0.1 tbnb
+- bsc mainnet account balance is greater than 0.1 tbnb
 
 ### test demo selfTransfer
 
