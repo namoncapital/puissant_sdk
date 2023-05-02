@@ -1,4 +1,4 @@
-module github.com/bnb48club/puissant_sdk
+module github.com/namoncapital/puissant_sdk
 
 go 1.18
 

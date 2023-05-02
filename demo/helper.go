@@ -5,7 +5,6 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/bnb48club/puissant_sdk/bnb48.sdk"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"gopkg.in/yaml.v2"
